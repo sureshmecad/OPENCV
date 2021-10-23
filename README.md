@@ -1,10 +1,10 @@
 
 
-# OPENCV PYTHON TUTORIALS FOR BEGINNERS
+## OPENCV PYTHON TUTORIALS FOR BEGINNERS
 </br>
 
 
-# Single Video Course
+### Single Video Course
 
 |Topic|Image|Video|Description|
 |:----:|:----:|:----:|:----:|
@@ -12,7 +12,7 @@
 
 
 
-# Basics 
+## Basics 
 
 |Topic|Image|Video|Description|
 |:----:|:----:|:----:|:----:|
@@ -28,7 +28,7 @@
 |___________________|______________________________|__________| ____________________________
 
 
-# Intermidiate 
+## Intermidiate 
 </br>
 
 
@@ -43,7 +43,7 @@
 |___________________|______________________________|__________| ____________________________
 
 
-# Projects
+## Projects
 </br>
 
 
@@ -60,9 +60,15 @@
 
 
 
-# Notes
+## Notes
 </br>
 
 |Index|Comment|
 |:---|:---|
 |1.|[Recommended IDE: PyCharm Community edition](https://www.jetbrains.com/pycharm/download/)|
+
+### Reference
+
+- https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects
+
+- https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/
