@@ -72,3 +72,5 @@
 - https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects
 
 - https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/
+
+- https://learnopencv.com/getting-started-with-opencv/
